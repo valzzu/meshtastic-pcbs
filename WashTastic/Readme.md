@@ -1,8 +1,8 @@
 # WashTastic
 
-<img src="./pics/capacitor_orientation.png" width="48">
-<img src="./pics/diode_orientation.png" width="48">
-<img src="./pics/ic_orientation.png" width="48">
+<img src="./pics/capacitor_orientation.png" width="60">
+<img src="./pics/diode_orientation.png" width="60">
+<img src="./pics/ic_orientation.png" width="60">
 
 Make sure these components are oriented like the image shows :)
 
