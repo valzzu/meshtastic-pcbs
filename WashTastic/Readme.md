@@ -2,8 +2,8 @@
 
 <img src="./pics/top.png" width="350"><img src="./pics/bottom.png" width="350">
 <img src="./pics/top_layout.png" width="350"><img src="./pics/bottom_layout.png" width="350">
-
-<img src="./pics/capacitor_orientation.png" width="200"><img src="./pics/diode_orientation.png" width="200"><img src="./pics/ic_orientation.png" width="200">
+<img src="./pics/bottom_layout.png" width="350">
+<img src="./pics/capacitor_orientation.png" width="200"><img src="./pics/diode_orientation.png" width="200"><img src="./pics/Schematic_1W-meshtastic-node" width="400">
 
 Make sure these components are oriented like the image shows :)
 
