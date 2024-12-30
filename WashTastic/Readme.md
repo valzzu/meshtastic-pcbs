@@ -1,5 +1,7 @@
 # WashTastic
 
+<img src="./pics/Assembled.png" width="350">
+
 <img src="./pics/top.png" width="350"><img src="./pics/bottom.png" width="350">
 <img src="./pics/top_layout.png" width="350"><img src="./pics/bottom_layout.png" width="350">
 <img src="./pics/Schematic_1W-meshtastic-node.png" width="500">
