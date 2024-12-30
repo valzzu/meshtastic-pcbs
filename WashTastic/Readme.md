@@ -26,8 +26,8 @@ readings can be off since its a Chinese psu 🤣
 
 
 
-[Gerber](./Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node.zip)
+[Gerber](./Gerber_WashTastic-1W-meshtastic-nodezip.zip)
 
-[BOM](./BOM_1W-meshtastic-node_V0.2.csv)
+[BOM](./BOM_WashTastic-1W-meshtastic-node_V0.2.csv)
 
-[PnP](./PickAndPlace_PCB_1W-meshtastic-node_V0.2.csv)
+[PnP](./PickAndPlace_WashTastic-1W-meshtastic-node_V0.2.csv)
