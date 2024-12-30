@@ -11,11 +11,14 @@ To rotate first left click then right click and rotate
 
 if ordering from jlcpcb or pcbway the only component u need to get is promicro nrf52
 
+## power consumption 
+
 these are not real world data but from my psu.
 idle is about 20mA
 transmitting is about 1.4A saw it almost reach 1.5A
 
 readings can be off since its a Chinese psu 🤣
+
 
 [promicro NRF52840](https://vi.aliexpress.com/item/1005007040333351.html)
 
