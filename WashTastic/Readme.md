@@ -19,7 +19,8 @@ transmitting is about 1.4A saw it almost reach 1.5A
 
 readings can be off since its a Chinese psu 🤣
 
-###stuff u need
+### stuff u need
+
 [promicro NRF52840](https://vi.aliexpress.com/item/1005007040333351.html)
 
 
