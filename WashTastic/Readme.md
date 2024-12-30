@@ -19,6 +19,10 @@ transmitting is about 1.4A saw it almost reach 1.5A
 
 readings can be off since its a Chinese psu 🤣
 
+### firmware 
+
+U need to flash the promicro with promicro diy Variant from the flasher.
+U might need to update the bootloader of the promicro to get it to accept the firmware.
 ### stuff u need
 
 [promicro NRF52840](https://vi.aliexpress.com/item/1005007040333351.html)
