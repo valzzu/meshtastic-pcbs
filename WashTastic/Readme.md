@@ -25,6 +25,7 @@ readings can be off since its a Chinese psu 🤣
 
 
 
+
 [Gerber](/pics/Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node_V0.1.zip)
 
 [BOM](/pics/BOM_1W-meshtastic-node_V0.1.csvBOM_1W-meshtastic-node_V0.1.csv)
