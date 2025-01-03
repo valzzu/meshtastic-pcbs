@@ -1,8 +1,8 @@
 # WashTastic
 
-<img src="./pics/WashTastic Diagram V0.3.png" width="350">
+<img src="./pics/WashTastic Diagram V0.3.png" width="450">
 
-<img src="./pics/Assembled.jpg" width="350">
+<img src="./pics/Assembled.jpg" width="350"> 
 
 <img src="./pics/top.png" width="350"><img src="./pics/bottom.png" width="350">
 <img src="./pics/top_layout.png" width="350"><img src="./pics/bottom_layout.png" width="350">
