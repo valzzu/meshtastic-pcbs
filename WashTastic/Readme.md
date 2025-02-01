@@ -17,11 +17,9 @@ if ordering from jlcpcb or pcbway the only component u need to get is promicro n
 
 ### power consumption 
 
-these are not real world data but from my psu.
-idle is about 20mA
-transmitting is about 1.4A saw it almost reach 1.5A
+I used an ina3221 to measure the current usage over an hour and it came to about 20mAh. so by that calculations its using about 480mAh per day.
 
-readings can be off since its a Chinese psu 🤣
+If u have better and real world data i will happily accept them :)
 
 ### firmware 
 
