@@ -37,3 +37,12 @@ U might need to update the bootloader of the promicro to get it to accept the fi
 [BOM](./BOM_WashTastic-1W-meshtastic-node_V0.2.csv)
 
 [PnP](./PickAndPlace_WashTastic-1W-meshtastic-node_V0.2.csv)
+
+# To-do 
+
+[ ] add ina if possible 
+[ ] uart pads for gps
+[ ] groove on the bottom of the pcb
+[ ] through holes for power?
+[ ] increase 5v boost to 5.5v?
+
