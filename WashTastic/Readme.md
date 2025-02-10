@@ -44,6 +44,10 @@ In theory, it should just work but who knows 😅
 I also added pins for gps since there was space.
 plus the PCB is now 4 layers and there are very tiny vias so there's a possibility of extra charge.
 
+u may also need to flash the nrf52 chip with a bootloader.
+
+tutorial is [here](https://github.com/gargomoma/fakeTec_pcb?tab=readme-ov-file#my-promicro-is-dead-what-can-i-do)
+
 [Gerber v0.4](./Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.4.zip)
 
 [BOM v0.4](./BOM_WashTastic-1W-meshtastic-node_V0.4.csv)
