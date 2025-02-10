@@ -38,10 +38,11 @@ U might need to update the bootloader of the promicro to get it to accept the fi
 > V0.4 has not been tested so order it at ur own risk!
 
 In v0.4 nrf52840 is directly integrated on the pcb along with ina3221.
-In theory it should just work but who knows 😅
+So no need to buy promicros.
+In theory, it should just work but who knows 😅
 
-also added pins for gps since there was space.
-plus the pcb is now 4 layers and there are very tiny vias so theres a possibility of extra charge.
+I also added pins for gps since there was space.
+plus the PCB is now 4 layers and there are very tiny vias so there's a possibility of extra charge.
 
 [Gerber v0.4](./Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.4.zip)
 
