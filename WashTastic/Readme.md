@@ -58,6 +58,6 @@ plus the PCB is now 4 layers and there are very tiny vias so there's a possibili
 
 - [ ] groove on the bottom of the pcb
 
-- [ ] through holes for power?
+- [x] through holes for power?
 
 - [x] increase 5v boost to 5.5v?
