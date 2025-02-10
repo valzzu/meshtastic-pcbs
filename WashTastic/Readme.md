@@ -34,18 +34,6 @@ U might need to update the bootloader of the promicro to get it to accept the fi
 
 [PnP](./PickAndPlace_PCB_1W-meshtastic-node-0.3.1.csv)
 
-# To-do
-
-- [ x ] add ina if possible
-
-- [ x ] uart pads for gps
-
-- [ ] groove on the bottom of the pcb
-
-- [ ] through holes for power?
-
-- [ x ] increase 5v boost to 5.5v?
-
 > [!CAUTION]
 > V0.4 has not been tested so order it at ur own risk!
 
@@ -60,3 +48,15 @@ plus the pcb is now 4 layers and there are very tiny vias so theres a possibilit
 [BOM v0.4](./BOM_WashTastic-1W-meshtastic-node_V0.4.csv)
 
 [PnP v0.4](./PickAndPlace_PCB_WashTastic-1W-meshtastic-node_V0.4.csv)
+
+# To-do
+
+- [ x ] add ina if possible
+
+- [ x ] uart pads for gps
+
+- [ ] groove on the bottom of the pcb
+
+- [ ] through holes for power?
+
+- [ x ] increase 5v boost to 5.5v?
