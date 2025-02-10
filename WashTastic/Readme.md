@@ -51,12 +51,12 @@ plus the pcb is now 4 layers and there are very tiny vias so theres a possibilit
 
 # To-do
 
-- [ x ] add ina if possible
+- [x] add ina if possible
 
-- [ x ] uart pads for gps
+- [x] uart pads for gps
 
 - [ ] groove on the bottom of the pcb
 
 - [ ] through holes for power?
 
-- [ x ] increase 5v boost to 5.5v?
+- [x] increase 5v boost to 5.5v?
