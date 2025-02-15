@@ -35,6 +35,8 @@ If it doesent have a bootloader check [here](https://github.com/gargomoma/fakeTe
 
 [BOM with connectors](./BOM_1W-meshtastic-node_0.3.3_connectors.csv)
 
+or
+
 [BOM without connectors](./BOM_1W-meshtastic-node_0.3.3_no-connectors.csv)
 
 [PnP](./PickAndPlace_PCB_1W-meshtastic-node-0.3.3.csv)
