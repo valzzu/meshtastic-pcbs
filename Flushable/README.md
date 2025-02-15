@@ -17,7 +17,7 @@ Just some totally not secret stuff happening here.
 <img src="./pics/Schematic_nRF52-watch.png" width="500">
 
 
-[BLE Antenna] (https://www.digikey.com/en/products/detail/johanson-technology-inc/2450AT42E010B001E/6235443)
+[BLE Antenna](https://www.digikey.com/en/products/detail/johanson-technology-inc/2450AT42E010B001E/6235443)
 
 [Gerber](./Gerber_nRF52-watch.zip)
 
