@@ -22,7 +22,10 @@ If u have better and real world data i will happily accept them :)
 ### firmware
 
 U need to flash the promicro with promicro diy Variant from the flasher.
+
 U might need to update the bootloader of the promicro to get it to accept the firmware.
+
+If it doesent have a bootloader check [here](https://github.com/gargomoma/fakeTec_pcb?tab=readme-ov-file#my-promicro-is-dead-what-can-i-do)
 
 ### stuff u need
 
@@ -48,7 +51,6 @@ plus the PCB is now 4 layers and there are very tiny vias so there's a possibili
 
 u may also need to flash the nrf52 chip with a bootloader.
 
-tutorial is [here](https://github.com/gargomoma/fakeTec_pcb?tab=readme-ov-file#my-promicro-is-dead-what-can-i-do)
 
 [Gerber v0.4](./Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.4.zip)
 
