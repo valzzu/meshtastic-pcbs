@@ -28,11 +28,13 @@ U might need to update the bootloader of the promicro to get it to accept the fi
 
 [promicro NRF52840](https://vi.aliexpress.com/item/1005007040333351.html)
 
-[Gerber](./Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.3.2.zip)
+[Gerber](./Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.3.3.zip)
 
-[BOM](./BOM_1W-meshtastic-node_0.3.1.csv)
+[BOM with connectors](./BOM_1W-meshtastic-node_0.3.3_connectors.csv)
 
-[PnP](./PickAndPlace_PCB_1W-meshtastic-node-0.3.1.csv)
+[BOM without connectors](./BOM_1W-meshtastic-node_0.3.3_no-connectors.csv)
+
+[PnP](./PickAndPlace_PCB_1W-meshtastic-node-0.3.3.csv)
 
 > [!CAUTION]
 > V0.4 has not been tested so order it at ur own risk!
