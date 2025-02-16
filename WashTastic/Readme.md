@@ -56,7 +56,11 @@ u may also need to flash the nrf52 chip with a bootloader.
 
 [Gerber v0.4](./Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.4.zip)
 
-[BOM v0.4](./BOM_WashTastic-1W-meshtastic-node_V0.4.csv)
+[BOM v0.4 with connectors](./BOM_1W-meshtastic-node_0.4_connectors.csv)
+
+or
+
+[BOM v0.4 without connectors](./BOM_1W-meshtastic-node_0.4_no-connectors.csv)
 
 [PnP v0.4](./PickAndPlace_PCB_WashTastic-1W-meshtastic-node_V0.4.csv)
 
