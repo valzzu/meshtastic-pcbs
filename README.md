@@ -10,4 +10,4 @@ Part of my boards but not in this repo [Mesh-Tab](https://github.com/valzzu/Mesh
 
 [WashTastic](/WashTastic) - 1W node based on E22-90030S and promicro nrf52
 
-[Flushable](/Flushable) - Meshtastic wearable node
+[Flushable](/Flushable) - Meshtastic wearable node (not tested)
