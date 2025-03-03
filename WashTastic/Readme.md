@@ -31,7 +31,7 @@ If it doesent have a bootloader check [here](https://github.com/gargomoma/fakeTe
 
 [promicro NRF52840](https://vi.aliexpress.com/item/1005007040333351.html)
 
-[Gerber](./Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.3.3.zip)
+[Gerber](./Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.3.3b.zip)
 
 [BOM with connectors](./BOM_1W-meshtastic-node_0.3.3_connectors.csv)
 
