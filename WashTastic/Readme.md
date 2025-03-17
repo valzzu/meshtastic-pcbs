@@ -47,6 +47,8 @@ or
 
 the only major change in this version is the solar chargin ic is changed to CN3791.
 
+Not tested but should work :)
+
 It has input range of 4.5-28V.
 
 <img src="./pics/top_V0.3.5.png" width="350"><img src="./pics/bottom_V0.3.5.png" width="350">
