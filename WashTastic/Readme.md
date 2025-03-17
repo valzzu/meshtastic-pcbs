@@ -51,7 +51,7 @@ It has input range of 4.5-28V.
 
 <img src="./pics/top_V0.3.5.png" width="350"><img src="./pics/bottom_V0.3.5.png" width="350">
 <img src="./pics/top_layout_V0.3.5.png" width="350"><img src="./pics/bottom_layout_V0.3.5.png" width="350">
-<img src="./pics/Sheet_1W meshtastic node V0.3.5.png" width="500"><img src="./pics/Sheet_1W-meshtastic-node 2 V0.3.5.png" width="500">
+<img src="./pics/Sheet_1W meshtastic node V0.3.5.png" width="500"><img src="./pics/Sheet_1W meshtastic node 2 V0.3.5.png" width="500">
 
 
 
