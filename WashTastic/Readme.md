@@ -41,6 +41,32 @@ or
 
 [PnP](./PickAndPlace_PCB_1W-meshtastic-node-0.3.3.csv)
 
+
+
+## V0.3.5
+
+the only major change in this version is the solar chargin ic is changed to CN3791.
+It has input range of 4.5-28V.
+
+<img src="./pics/top_V0.3.5.png" width="350"><img src="./pics/bottom_V0.3.5.png" width="350">
+<img src="./pics/top_layout_V0.3.5.png" width="350"><img src="./pics/bottom_layout_V0.3.5.png" width="350">
+<img src="./pics/Schematic_1W-meshtastic-node V0.3.5.png" width="350"><img src="./pics/Schematic_1W-meshtastic-node 2 V0.3.5.png" width="350">
+
+
+
+[promicro NRF52840](https://vi.aliexpress.com/item/1005007040333351.html)
+
+[Gerber](./Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.3.5.zip)
+
+[BOM with connectors](./BOM_1W-meshtastic-node_0.3.5_connectors.csv)
+
+or
+
+[BOM without connectors](./BOM_1W-meshtastic-node_0.3.5_no-connectors.csv)
+
+[PnP](./PickAndPlace_PCB_1W-meshtastic-node-0.3.5.csv)
+
+
 > [!CAUTION]
 > V0.4 has not been tested so order it at ur own risk!
 
