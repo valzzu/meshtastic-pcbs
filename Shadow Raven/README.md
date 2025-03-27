@@ -3,7 +3,7 @@
 What is this?
 this is a node made for elecrows free pcb promotion.
 
-not tested yet but i have sent the files to elecrow.§
+not tested yet but i have sent the files to elecrow
 
 This is not a cheap board either, about 200€ in jlcpcb for 5 boards.
 
