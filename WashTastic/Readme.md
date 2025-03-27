@@ -6,11 +6,6 @@
 <img src="./pics/top_layout.png" width="350"><img src="./pics/bottom_layout.png" width="350">
 <img src="./pics/Schematic_1W-meshtastic-node.png" width="500">
 
-<img src="./pics/capacitor_orientation.png" width="200"><img src="./pics/diode_orientation.png" width="200"><img src="./pics/ic_orientation.png" width="200">
-
-Make sure these components are oriented like the image shows :)
-To rotate first left click then right click and rotate
-
 if ordering from jlcpcb or pcbway the only component u need to get is promicro nrf52
 
 ### power consumption
@@ -51,23 +46,28 @@ Not tested but should work :)
 
 It has input range of 4.5-28V.
 
-<img src="./pics/top_V0.3.5.png" width="350"><img src="./pics/bottom_V0.3.5.png" width="350">
-<img src="./pics/top_layout_V0.3.5.png" width="350"><img src="./pics/bottom_layout_V0.3.5.png" width="350">
-<img src="./pics/Sheet_1W meshtastic node V0.3.5.png" width="500"><img src="./pics/Sheet_1W meshtastic node_2_V0.3.5.png" width="500">
+<img src="./pics/V0.3.5/top_V0.3.5.png" width="350"><img src="./pics/V0.3.5/bottom_V0.3.5.png" width="350">
+<img src="./pics/V0.3.5/top_layout_V0.3.5.png" width="350"><img src="./pics/V0.3.5/bottom_layout_V0.3.5.png" width="350">
+<img src="./pics/V0.3.5/Sheet_1W meshtastic node V0.3.5.png" width="500"><img src="./pics/V0.3.5/Sheet_1W meshtastic node_2_V0.3.5.png" width="500">
+
+
+the only component that jlc doesent have is 68uH inductor
+[LCSC](https://www.lcsc.com/product-detail/Power-Inductors_SXN-Shun-Xiang-Nuo-Elec-SMMS1385-680MT_C7542083.html?s_z=n_C7542083) link for the part
+havent found a part yet to replace it so currently theres no way to get this board.
 
 
 
 [promicro NRF52840](https://vi.aliexpress.com/item/1005007040333351.html)
 
-[Gerber](./Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.3.5.zip)
+[Gerber](./V0.3.5/Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.3.5.zip)
 
-[BOM with connectors](./BOM_1W-meshtastic-node_0.3.5_connectors.csv)
+[BOM with connectors](./V0.3.5/BOM_1W-meshtastic-node_0.3.5_connectors.csv)
 
 or
 
-[BOM without connectors](./BOM_1W-meshtastic-node_0.3.5_no-connectors.csv)
+[BOM without connectors](./V0.3.5/BOM_1W-meshtastic-node_0.3.5_no-connectors.csv)
 
-[PnP](./PickAndPlace_PCB_1W-meshtastic-node-0.3.5.csv)
+[PnP](./V0.3.5/PickAndPlace_PCB_1W-meshtastic-node-0.3.5.csv)
 
 
 > [!CAUTION]
@@ -83,24 +83,12 @@ plus the PCB is now 4 layers and there are very tiny vias so there's a possibili
 u may also need to flash the nrf52 chip with a bootloader.
 
 
-[Gerber v0.4](./Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.4.zip)
+[Gerber v0.4](./V0.4/Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.4.zip)
 
-[BOM v0.4 with connectors](./BOM_1W-meshtastic-node_0.4_connectors.csv)
+[BOM v0.4 with connectors](./V0.4/BOM_1W-meshtastic-node_0.4_connectors.csv)
 
 or
 
-[BOM v0.4 without connectors](./BOM_1W-meshtastic-node_0.4_no-connectors.csv)
+[BOM v0.4 without connectors](./V0.4/BOM_1W-meshtastic-node_0.4_no-connectors.csv)
 
-[PnP v0.4](./PickAndPlace_PCB_WashTastic-1W-meshtastic-node_V0.4.csv)
-
-# To-do
-
-- [x] add ina if possible
-
-- [x] uart pads for gps
-
-- [ ] groove on the bottom of the pcb
-
-- [x] through holes for power?
-
-- [x] increase 5v boost to 5.5v?
+[PnP v0.4](./V0.4/PickAndPlace_PCB_WashTastic-1W-meshtastic-node_V0.4.csv)
