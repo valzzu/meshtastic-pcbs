@@ -20,4 +20,4 @@ XB8089D0
 
 <img src="./pics/top.png" width="350"><img src="./pics/bottom.png" width="350">
 <img src="./pics/top_layout.png" width="350"><img src="./pics/bottom_layout.png" width="350">
-<img src="./pics/1.logic" width="500"><img src="./pics/2.power" width="500">
+<img src="./pics/1.logic.png" width="500"><img src="./pics/2.power.png" width="500">
