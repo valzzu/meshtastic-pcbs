@@ -7,14 +7,14 @@ This is not a cheap board either, about 200€ in jlcpcb for 5 boards.
 
 
 main things in this board are:
-Elecrow nRFLR1110
-ATGM336H-5N
-BME680
-SD Card slot
-SKY65313-21
-INA3221
-LTC4162EUFD-L42M
-XB8089D0
+- Elecrow nRFLR1110
+- ATGM336H-5N
+- BME680
+- SD Card slot
+- SKY65313-21
+- INA3221
+- LTC4162EUFD-L42M
+- XB8089D0
 
 
 
