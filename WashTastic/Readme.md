@@ -51,9 +51,8 @@ It has input range of 4.5-28V.
 <img src="./pics/V0.3.5/Sheet_1W meshtastic node V0.3.5.png" width="500"><img src="./pics/V0.3.5/Sheet_1W meshtastic node_2_V0.3.5.png" width="500">
 
 
-the only component that jlc doesent have is 68uH inductor
-[LCSC](https://www.lcsc.com/product-detail/Power-Inductors_SXN-Shun-Xiang-Nuo-Elec-SMMS1385-680MT_C7542083.html?s_z=n_C7542083) link for the part
-havent found a part yet to replace it so currently theres no way to get this board.
+JLCPCB is saying that the part is not selected nor does it allow to choose a replacement part, if that happens this is the part
+[XR XR1365-680M](https://www.lcsc.com/product-detail/Power-Inductors_XR-XR1365-680M_C41384054.html?s_z=n_C41384054)
 
 
 
