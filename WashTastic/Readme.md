@@ -48,7 +48,7 @@ It has input range of 4.5-28V.
 
 <img src="./pics/V0.3.5/top_V0.3.5.png" width="350"><img src="./pics/V0.3.5/bottom_V0.3.5.png" width="350">
 <img src="./pics/V0.3.5/top_layout_V0.3.5.png" width="350"><img src="./pics/V0.3.5/bottom_layout_V0.3.5.png" width="350">
-<img src="./pics/V0.3.5/Sheet_1W meshtastic node V0.3.5.png" width="500"><img src="./pics/V0.3.5/Sheet_1W meshtastic node_2_V0.3.5.png" width="500">
+<img src="./pics/V0.3.5/1. Main.png" width="500"><img src="./pics/V0.3.5/2. Solar.png" width="500">
 
 
 JLCPCB is saying that the part is not selected nor does it allow to choose a replacement part, if that happens this is the part
