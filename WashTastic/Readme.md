@@ -49,7 +49,9 @@ It has input range of 4.5-28V.
 <img src="./pics/V0.3.5/1. Main.png" width="500"><img src="./pics/V0.3.5/2. Solar.png" width="500">
 
 JLCPCB is saying that the part is not selected nor does it allow to choose a replacement part, if that happens this is the part
-[XR XR1365-680M](https://www.lcsc.com/product-detail/Power-Inductors_XR-XR1365-680M_C41384054.html?s_z=n_C41384054)
+[XR1365-680M](https://www.lcsc.com/product-detail/Power-Inductors_XR-XR1365-680M_C41384054.html?s_z=n_C41384054)
+JLCPCB doesen't seem to have this part at all, rather it finds this part that is no where what the original was.
+[XR1265-680M](https://jlcpcb.com/partdetail/Xr-XR1265680M/C5339474)
 
 [promicro NRF52840](https://vi.aliexpress.com/item/1005007040333351.html)
 
