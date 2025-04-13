@@ -36,8 +36,6 @@ or
 
 [PnP](./PickAndPlace_PCB_1W-meshtastic-node-0.3.3.csv)
 
-
-
 ## V0.3.5
 
 the only major change in this version is the solar chargin ic is changed to CN3791.
@@ -50,11 +48,8 @@ It has input range of 4.5-28V.
 <img src="./pics/V0.3.5/top_layout_V0.3.5.png" width="350"><img src="./pics/V0.3.5/bottom_layout_V0.3.5.png" width="350">
 <img src="./pics/V0.3.5/1. Main.png" width="500"><img src="./pics/V0.3.5/2. Solar.png" width="500">
 
-
 JLCPCB is saying that the part is not selected nor does it allow to choose a replacement part, if that happens this is the part
 [XR XR1365-680M](https://www.lcsc.com/product-detail/Power-Inductors_XR-XR1365-680M_C41384054.html?s_z=n_C41384054)
-
-
 
 [promicro NRF52840](https://vi.aliexpress.com/item/1005007040333351.html)
 
@@ -66,8 +61,15 @@ or
 
 [BOM without connectors](./V0.3.5/BOM_1W-meshtastic-node_0.3.5_no-connectors.csv)
 
-[PnP](./V0.3.5/PickAndPlace_PCB_1W-meshtastic-node-0.3.5.csv)
+if u want BME280 use one of these
 
+[BOM with connectors](./V0.3.5/BOM_1W-meshtastic-node_0.3.5_connectors_BME280.csv)
+
+or
+
+[BOM without connectors](./V0.3.5/BOM_1W-meshtastic-node_0.3.5_no-connectors_BME280.csv)
+
+[PnP](./V0.3.5/PickAndPlace_PCB_1W-meshtastic-node-0.3.5.csv)
 
 > [!CAUTION]
 > V0.4 has not been tested so order it at ur own risk!
@@ -80,7 +82,6 @@ I also added pins for gps since there was space.
 plus the PCB is now 4 layers and there are very tiny vias so there's a possibility of extra charge.
 
 u may also need to flash the nrf52 chip with a bootloader.
-
 
 [Gerber v0.4](./V0.4/Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.4.zip)
 
