@@ -61,7 +61,8 @@ or
 
 [BOM without connectors](./V0.3.5/BOM_1W-meshtastic-node_0.3.5_no-connectors.csv)
 
-if u want BME280 use one of these
+if u want BME280 use one of these.
+also this results in extra charges since u need to use standard PCBA instead of economy.
 
 [BOM with connectors](./V0.3.5/BOM_1W-meshtastic-node_0.3.5_connectors_BME280.csv)
 
