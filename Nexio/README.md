@@ -6,7 +6,7 @@ PCB attaches behind [this](https://vi.aliexpress.com/item/1005006975542555.html)
 
 <img src="./pics/top.png" width="350"><img src="./pics/bottom.png" width="350">
 <img src="./pics/top_layout.png" width="350"><img src="./pics/bottom_layout.png" width="350">
-<img src="./pics/schematic.png" width="500">
+<img src="./pics/schematic.png" width="700">
 
 > [!CAUTION]
 > this has not been tested so order it at ur own risk!
