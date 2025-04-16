@@ -9,6 +9,7 @@ PCB attaches behind [this](https://vi.aliexpress.com/item/1005006975542555.html)
 
 > [!CAUTION]
 > this has not been tested so order it at ur own risk!
+>
 > plus theres no linux distro yet
 
 [Luckfox Lyra](https://www.luckfox.com/Luckfox-Lyra)
