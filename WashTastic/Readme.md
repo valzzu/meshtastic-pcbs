@@ -40,7 +40,9 @@ or
 
 the only major change in this version is the solar chargin ic is changed to CN3791.
 
-Tested tobe working :) Theres some ripple in the batt line ill be fixing that eventually but wont matter if u have a battery connected since thats smoothing it out.
+Tested tobe working :)
+
+U should connect a battery when using, this is not meant to run on solar only.
 
 It has input range of 4.5-28V.
 
