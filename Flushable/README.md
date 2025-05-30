@@ -18,7 +18,7 @@ Currently lora needs and ipex u.fl antenna.
 <img src="./pics/Schematic_nRF52-watch.png" width="500">
 
 
-[BLE Antenna](https://www.digikey.com/en/products/detail/johanson-technology-inc/2450AT42E010B001E/6235443)
+[Lora]([https://www.digikey.com/en/products/detail/johanson-technology-inc/2450AT42E010B001E/6235443](https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html))
 
 [Gerber](./Gerber_nRF52-watch.zip)
 
