@@ -19,7 +19,7 @@ U might need to update the bootloader of the promicro to get it to accept the fi
 
 If it doesent have a bootloader check [here](https://github.com/gargomoma/fakeTec_pcb?tab=readme-ov-file#my-promicro-is-dead-what-can-i-do)
 
-## V0.3.5
+## V0.3.X
 
 the only major change in this version is the solar chargin ic is changed to CN3791.
 
@@ -58,6 +58,8 @@ or
 [BOM without connectors and with bme280](./V0.3.5/BOM_1W-meshtastic-node_0.3.5_no-connectors_BME280.csv)
 
 [PnP](./V0.3.5/PickAndPlace_PCB_1W-meshtastic-node-0.3.5.csv)
+
+## V0.4.X
 
 > [!CAUTION]
 > V0.4 has not been tested so order it at ur own risk!
