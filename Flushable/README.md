@@ -8,7 +8,7 @@ Just some totally not secret stuff happening here.
 > I'm not even sure if this works as its supposed to.
 > So order at ur own risk!
 
-Currently lora needs and ipex u.fl antenna.
+Both lora and ble has ipex ufl connector
 
 <img src="./pics/top.png" width="350"><img src="./pics/bottom.png" width="350">
 <img src="./pics/PCB_nRF52-watch_top.png" width="350"><img src="./pics/PCB_nRF52-watch_inner1.png" width="350">
@@ -18,7 +18,7 @@ Currently lora needs and ipex u.fl antenna.
 <img src="./pics/Schematic_nRF52-watch.png" width="500">
 
 
-[BLE Antenna](https://www.digikey.com/en/products/detail/johanson-technology-inc/2450AT42E010B001E/6235443)
+[Lora]([https://www.digikey.com/en/products/detail/johanson-technology-inc/2450AT42E010B001E/6235443](https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html))
 
 [Gerber](./Gerber_nRF52-watch.zip)
 
