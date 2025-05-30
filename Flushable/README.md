@@ -8,7 +8,7 @@ Just some totally not secret stuff happening here.
 > I'm not even sure if this works as its supposed to.
 > So order at ur own risk!
 
-Currently lora needs and ipex u.fl antenna.
+Both lora and ble has ipex ufl connector
 
 <img src="./pics/top.png" width="350"><img src="./pics/bottom.png" width="350">
 <img src="./pics/PCB_nRF52-watch_top.png" width="350"><img src="./pics/PCB_nRF52-watch_inner1.png" width="350">
