@@ -7,7 +7,7 @@ if ordering from jlcpcb or pcbway the only component u need to get is promicro n
 
 ### power consumption
 
-I used an ina3221 to measure the current usage over an hour and it came to about 20mAh. so by that calculations its using about 480mAh per day.
+I used an ina3221 to measure the current usage over an hour and it came to about 20mAh. so by that calculations its using about 480mAh per day. (old information, needs to be re-measured.)
 
 If u have better and real world data i will happily accept them :)
 
