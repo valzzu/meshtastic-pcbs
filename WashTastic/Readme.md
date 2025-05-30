@@ -2,9 +2,6 @@
 
 <img src="./pics/Assembled.jpg" width="350"> <img src="./pics/WashTastic Diagram V0.3.png" width="600">
 
-<img src="./pics/top.png" width="350"><img src="./pics/bottom.png" width="350">
-<img src="./pics/top_layout.png" width="350"><img src="./pics/bottom_layout.png" width="350">
-<img src="./pics/Schematic_1W-meshtastic-node.png" width="500">
 
 if ordering from jlcpcb or pcbway the only component u need to get is promicro nrf52
 
@@ -22,25 +19,11 @@ U might need to update the bootloader of the promicro to get it to accept the fi
 
 If it doesent have a bootloader check [here](https://github.com/gargomoma/fakeTec_pcb?tab=readme-ov-file#my-promicro-is-dead-what-can-i-do)
 
-### stuff u need
-
-[promicro NRF52840](https://vi.aliexpress.com/item/1005007040333351.html)
-
-[Gerber](./Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.3.3b.zip)
-
-[BOM with connectors](./BOM_1W-meshtastic-node_0.3.3_connectors.csv)
-
-or
-
-[BOM without connectors](./BOM_1W-meshtastic-node_0.3.3_no-connectors.csv)
-
-[PnP](./PickAndPlace_PCB_1W-meshtastic-node-0.3.3.csv)
-
 ## V0.3.5
 
 the only major change in this version is the solar chargin ic is changed to CN3791.
 
-Tested tobe working :)
+Tested to be working :)
 
 U should connect a battery when using, this is not meant to run on solar only.
 
