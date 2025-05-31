@@ -1,7 +1,7 @@
 # meshtastic-pcbs
 PCBs i've made for meshtastic
 
-# Starting on 6.1.25 I'll be in the military so i won't be updating or fixing etc, i will be slow to reply if at all so be patient :)
+# Starting on 6.1.25 I'll be in the military :)
 
 
 ## Most boards have not been tested so order at your own risk
