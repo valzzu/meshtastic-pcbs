@@ -19,7 +19,7 @@ main things in this board are:
 - XB8089D0
 
 
-
+<img src="./pics/20250518_153228.jpg" width="350"><img src="./pics/20250518_153234.jpg" width="350">
 <img src="./pics/top.png" width="350"><img src="./pics/bottom.png" width="350">
 <img src="./pics/top_layout.png" width="350"><img src="./pics/bottom_layout.png" width="350">
 <img src="./pics/1.logic.png" width="500"><img src="./pics/2.power.png" width="500">
