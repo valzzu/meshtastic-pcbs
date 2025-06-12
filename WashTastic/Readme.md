@@ -73,6 +73,8 @@ plus the PCB is now 4 layers and there are very tiny vias so there's a possibili
 
 u may also need to flash the nrf52 chip with a bootloader.
 
+u can use this [clamp - 1.27mm single row 4P](https://www.aliexpress.com/item/1005004869027755.html) for programming the board without needing to solder wires.
+
 [Gerber v0.4](./V0.4/Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.4.zip)
 
 [BOM v0.4 with connectors](./V0.4/BOM_1W-meshtastic-node_0.4_connectors.csv)
