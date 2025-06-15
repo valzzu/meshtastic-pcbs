@@ -1,12 +1,5 @@
-### Nothing to see here 👀
+### Flushable
 
-Just some totally not secret stuff happening here.
-
-
-> [!CAUTION]
-> This has not been tested in any way! 
-> I'm not even sure if this works as its supposed to.
-> So order at ur own risk!
 
 Both lora and ble has ipex ufl connector
 
