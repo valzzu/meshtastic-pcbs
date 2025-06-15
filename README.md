@@ -10,4 +10,4 @@ PCBs i've made for meshtastic
 
 [WashTastic](/WashTastic) - 1W node based on E22-90030S and promicro nrf52
 
-[Flushable](/Flushable) - Meshtastic wearable node (not tested)
+[Flushable](/Flushable) - Meshtastic wearable node?
