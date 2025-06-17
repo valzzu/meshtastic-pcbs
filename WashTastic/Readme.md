@@ -61,8 +61,8 @@ or
 
 ## V0.4.X
 
-> [!CAUTION]
-> V0.4 has not been tested so order it at ur own risk!
+> [!WARNING]
+> V0.4 has been tested and it seems to work but order at ur own risk.
 
 In v0.4 nrf52840 is directly integrated on the pcb along with ina3221.
 So no need to buy promicros.
