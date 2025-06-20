@@ -21,13 +21,15 @@ If it doesent have a bootloader check [here](https://github.com/gargomoma/fakeTe
 
 ## V0.3.5
 
-the only major change in this version is the solar chargin ic is changed to CN3791.
+the only major change in this version is the solar charging ic is changed to CN3791.
 
 Tested to be working :)
 
 U should connect a battery when using, this is not meant to run on solar only.
 
 It has input range of 4.5-28V.
+
+If you live in EU country u can order one from [here](https://www.etsy.com/fi-en/listing/4323773321/washtastic-nrf52-powered-and-solar-ready)
 
 <img src="./pics/V0.3.5/top_V0.3.5.png" width="350"><img src="./pics/V0.3.5/bottom_V0.3.5.png" width="350">
 <img src="./pics/V0.3.5/top_layout_V0.3.5.png" width="350"><img src="./pics/V0.3.5/bottom_layout_V0.3.5.png" width="350">
