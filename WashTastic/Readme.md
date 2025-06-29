@@ -1,6 +1,6 @@
 # WashTastic
 
-<img src="./pics/Assembled.jpg" width="350"> <img src="./pics/WashTastic Diagram V0.3.png" width="600">
+<img src="./pics/Assembled.jpg" width="350"> <img src="./pics/WashTastic Diagram V0.3.5.png" width="600">
 
 
 if ordering from jlcpcb or pcbway the only component u need to get is promicro nrf52
