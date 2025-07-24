@@ -2,8 +2,14 @@
 
 <img src="./pics/Assembled.jpg" width="350"> <img src="./pics/WashTastic Diagram V0.3.5.png" width="600">
 
+Dont want to assemble these by you're self?
+U can now buy ready to go device from Elecrow
+https://www.elecrow.com/washtastic-nrf52-powered-and-solar-ready.html
+(remember to update firmware (: )
 
 if ordering from jlcpcb or pcbway the only component u need to get is promicro nrf52
+
+U can get firmware for this from here https://mrekin.duckdns.org/flasher/ for now.
 
 ### power consumption
 
