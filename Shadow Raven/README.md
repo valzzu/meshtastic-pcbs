@@ -1,5 +1,10 @@
 # Shadow Raven
 
+
+> [!CAUTION]
+> DO NOT ORDER!!!! non functional on some parts.
+
+
 What is this?
 this is a node made for elecrows free pcb promotion.
 
