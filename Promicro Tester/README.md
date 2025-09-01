@@ -14,3 +14,5 @@ Board only has all the relevant pins hooked up to leds that are used with meshta
 [BOM](./BOM_promicro_tester.csv)
 
 [PnP](./PickAndPlace_promicro_tester.csv)
+
+[Firmware](./firmware.uf2) not yet available
