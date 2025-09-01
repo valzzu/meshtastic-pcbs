@@ -15,7 +15,7 @@ Board only has all the relevant pins hooked up to leds that are used with meshta
 
 [PnP](./PickAndPlace_promicro_tester.csv)
 
-thx to [ICantMakeThings](https://github.com/ICantMakeThings/Nicenano-NRF52-Supermini-PlatformIO-Support) for their example NRF52 platformio repo
+thx to [ICantMakeThings](https://github.com/ICantMakeThings/Nicenano-NRF52-Supermini-PlatformIO-Support) for their example NRF52 supermini platformio repo
 
 [Firmware](./firmware.uf2)
 
