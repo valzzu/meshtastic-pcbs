@@ -21,6 +21,6 @@ Additionally, u need [pin headers](https://www.aliexpress.com/item/1005005666298
 
 thx to [ICantMakeThings](https://github.com/ICantMakeThings/Nicenano-NRF52-Supermini-PlatformIO-Support) for their example NRF52 supermini platformio repo
 
-[Firmware](./firmware.uf2)
+[Firmware](./firmware.uf2) Flash at ur own risk :)
 
 [Firmware Source](./firmware_source)
