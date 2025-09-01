@@ -1,6 +1,7 @@
 # Promicro Testing board
 
 The board only has all the relevant pins hooked up to leds that are used with meshtastic by default.
+
 You can either test with the pogo pins if the promicro doesen't have headers.
 
 <img src="./pics/top.png" width="350"><img src="./pics/bottom.png" width="350">
