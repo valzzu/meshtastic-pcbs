@@ -10,8 +10,9 @@ PCB attaches behind [this](https://vi.aliexpress.com/item/1005006975542555.html)
 
 > [!CAUTION]
 > this has not been tested so order it at ur own risk!
->
-> plus theres no linux distro yet
+
+firmware needs to be compiled manually.
+Get it [here](https://github.com/markbirss/rk3506-ubuntu)
 
 [Luckfox Lyra](https://www.luckfox.com/Luckfox-Lyra)
 
