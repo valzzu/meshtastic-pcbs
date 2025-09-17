@@ -1,8 +1,6 @@
 # meshtastic-pcbs
 PCBs i've made for meshtastic
 
-# Starting on 6.1.25 I'll be in the military :)
-
 
 ## Licence 
 All of my boards are licensed under
