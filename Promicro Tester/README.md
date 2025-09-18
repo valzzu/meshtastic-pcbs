@@ -21,7 +21,7 @@ Additionally, u need [pin headers](https://www.aliexpress.com/item/1005005666298
 
 and
 
-[test pin](https://www.aliexpress.com/item/32948963610.html)
+[test pins](https://www.aliexpress.com/item/32948963610.html)
 
 thx to [ICantMakeThings](https://github.com/ICantMakeThings/Nicenano-NRF52-Supermini-PlatformIO-Support) for their example NRF52 supermini platformio repo
 
