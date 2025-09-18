@@ -15,12 +15,18 @@ You can either test with the pogo pins if the promicro doesen't have headers.
 
 [BOM](./BOM_promicro_tester.csv)
 
+[PnP](./PickAndPlace_promicro_tester.csv)
+
 Additionally, u need [pin headers](https://www.aliexpress.com/item/1005005666298784.html)
 
-[PnP](./PickAndPlace_promicro_tester.csv)
+and
+
+[test pin](https://www.aliexpress.com/item/32948963610.html)
 
 thx to [ICantMakeThings](https://github.com/ICantMakeThings/Nicenano-NRF52-Supermini-PlatformIO-Support) for their example NRF52 supermini platformio repo
 
 [Firmware](./firmware.uf2) Flash at ur own risk :)
 
 [Firmware Source](./firmware_source)
+
+[3D printable case]() soon :)
