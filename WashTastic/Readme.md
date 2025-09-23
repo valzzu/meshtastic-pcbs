@@ -8,6 +8,11 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-NoDer
 
 The license terms are negotiable. You are free to use this work for non-commercial purposes without profit. If you receive compensation or profit from its use, please consider supporting me through GitHub Sponsors.
 
+
+
+
+
+
 <img src="./pics/Assembled.jpg" width="350"> <img src="./pics/WashTastic Diagram V0.3.5.png" width="600">
 
 Dont want to assemble these by you're self?
