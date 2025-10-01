@@ -17,6 +17,10 @@ U can now buy ready to go device from Elecrow
 
 https://www.elecrow.com/washtastic-nrf52-powered-and-solar-ready.html
 
+or if in the EU u can buy from me if i have some in stock
+
+https://valzzu.etsy.com
+
 (remember to update firmware (: )
 
 if ordering from jlcpcb or pcbway the only component u need to get is promicro nrf52
