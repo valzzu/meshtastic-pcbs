@@ -1,4 +1,4 @@
-![NextPC](https://github.com/user-attachments/assets/2ffdb911-3dd6-4827-92b9-a65a6249c71c)# Licence 
+# Licence 
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
