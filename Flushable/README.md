@@ -31,15 +31,6 @@ Both lora and ble has ipex ufl connector
 > V0.4 has not been tested yet so no quarantee everything works
 
 
-## Sponsor
-<img width="200" height="69" alt="ԭͼ-RGB" src="https://github.com/user-attachments/assets/dd3ce697-134e-4aac-923c-d7976c18aa7d" />
-
-
-This project is proudly sponsored by [NextPCB](https://www.nextpcb.com/?code=Iris) - Your trusted PCB Prototype & Fabrication Manufacturer. NextPCB provides high-quality PCB manufacturing services with fast turnaround times, making them the perfect partner for bringing electronics projects to life.
-
-
-#
-
 <img src="./pics/V0.4/top.png" width="350"><img src="./pics/V0.4/bottom.png" width="350">
 <img src="./pics/V0.4/PCB_nRF52-watch_top.png" width="350"><img src="./pics/V0.4/PCB_nRF52-watch_inner1.png" width="350">
 <img src="./pics/V0.4/PCB_nRF52-watch_inner2.png" width="350"><img src="./pics/V0.4/PCB_nRF52-watch_bottom.png" width="350">
