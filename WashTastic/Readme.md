@@ -25,8 +25,6 @@ https://valzzu.etsy.com
 
 if ordering from jlcpcb or pcbway the only component u need to get is promicro nrf52
 
-U can get firmware for this from here https://mrekin.duckdns.org/flasher/ for now.
-
 ### power consumption
 
 I used an ina3221 to measure the current usage over an hour and it came to about 20mAh. so by that calculations its using about 480mAh per day. (old information, needs to be re-measured.)
@@ -36,6 +34,10 @@ If u have better and real world data i will happily accept them :)
 ### firmware
 
 U need to flash the promicro with promicro diy Variant from the flasher.
+
+or 
+
+get WashTastic firmware from [here](https://mrekin.duckdns.org/flasher/) (higly recommended)
 
 U might need to update the bootloader of the promicro to get it to accept the firmware.
 
