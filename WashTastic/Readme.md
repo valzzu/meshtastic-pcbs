@@ -72,6 +72,8 @@ JLCPCB doesen't seem to have this part at all, rather it finds this part that is
 
 [PnP](./V0.3.5/PickAndPlace_PCB_1W-meshtastic-node-0.3.5.csv)
 
+[IBom](./V0.3.5/InteractiveBOM_PCB_1W meshtastic node_V0.3.5.5.html)
+
 ## V0.4.X
 
 > [!WARNING]
