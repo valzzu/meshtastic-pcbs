@@ -38,4 +38,4 @@ thx to [ICantMakeThings](https://github.com/ICantMakeThings/Nicenano-NRF52-Super
 
 [Firmware Source](./firmware_source)
 
-[3D printable case]() soon :)
+[3D printable case](https://www.printables.com/model/1471461-nrf52840-promicro-tester-enclosure) 
