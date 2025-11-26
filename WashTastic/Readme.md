@@ -25,6 +25,7 @@ https://valzzu.etsy.com
 
 if ordering from jlcpcb or pcbway the only component u need to get is promicro nrf52
 
+## Note for ppl who have ordered this before i was notified
 
 > [!CAUTION]
 > I've been notified that I had made a mistake on the battery protection.
