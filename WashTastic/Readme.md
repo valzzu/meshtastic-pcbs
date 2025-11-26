@@ -28,12 +28,15 @@ if ordering from jlcpcb or pcbway the only component u need to get is promicro n
 
 > [!CAUTION]
 > I've been notified that I had made a mistake on the battery protection.
+> 
 > I had put a capacitor before the resistor even tho it was meant to be after the resistor
 
 old
+
 <img src="./pics/V0.3.5/old.png" width="350"><img src="./pics/V0.3.5/old2.png" width="350">
 
 fix
+
 <img src="./pics/V0.3.5/fix.png" width="350"><img src="./pics/V0.3.5/fix2.png" width="350">
 
 ### power consumption
