@@ -40,7 +40,7 @@ fix
 
 <img src="./pics/V0.3.5/fix.png" width="350"><img src="./pics/V0.3.5/fix2.png" width="350">
 
-pcb version v0.3.3.6 has the fix. v0.4.x soon.
+pcb version v0.3.5.6 and v0.4.6 has the fix.
 
 ### power consumption
 
