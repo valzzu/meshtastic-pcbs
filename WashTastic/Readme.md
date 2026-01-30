@@ -109,10 +109,6 @@ u can use this [clamp - 1.27mm single row 4P](https://www.aliexpress.com/item/10
 
 [Gerber v0.4](./V0.4/Gerber_1W-meshtastic-node_PCB_1W-meshtastic-node-0.4.zip)
 
-[BOM v0.4 with connectors](./V0.4/BOM_1W-meshtastic-node_0.4_connectors.csv)
-
-or
-
-[BOM v0.4 without connectors](./V0.4/BOM_1W-meshtastic-node_0.4_no-connectors.csv)
+[BOM v0.4 with connectors](./V0.4/BOM_1W-meshtastic-node_0.4.csv)
 
 [PnP v0.4](./V0.4/PickAndPlace_PCB_WashTastic-1W-meshtastic-node_V0.4.csv)
