@@ -27,3 +27,5 @@ The license terms are negotiable. You are free to my work for non-commercial pur
 [WashTastic](/WashTastic) - 1W node based on E22-90030S and promicro nrf52
 
 [Flushable](/Flushable) - Meshtastic wearable node?
+
+[PiTastic](/PiTastic) - 1W raspberry pi hat
