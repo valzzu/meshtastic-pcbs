@@ -9,7 +9,7 @@ The license terms are negotiable. You are free to use this work for non-commerci
 
 # Flushable
 
-Both lora and ble has ipex ufl connector
+<img src="./pics/front_side.jpg" width="350"><img src="./pics/bottom_side.jpg" width="350">
 
 <img src="./pics/top.png" width="350"><img src="./pics/bottom.png" width="350">
 <img src="./pics/PCB_nRF52-watch_top.png" width="350"><img src="./pics/PCB_nRF52-watch_inner1.png" width="350">
@@ -28,7 +28,8 @@ Both lora and ble has ipex ufl connector
 ## V0.4.X
 
 > [!CAUTION]
-> V0.4 has not been tested yet so no quarantee everything works
+> V0.4 has been tested and almost works.
+> screen does not work on the current version.
 
 
 <img src="./pics/V0.4/top.png" width="350"><img src="./pics/V0.4/bottom.png" width="350">
