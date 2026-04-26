@@ -10,7 +10,9 @@ The license terms are negotiable. You are free to use this work for non-commerci
 # PiTastic
 
 > [!WARNING]
-> This has not been tested yet.
+> Lora has been tested, POE not yet.
+> AHT-20 is detected by linux but not meshtasticd
+> GPS maybe works, havent tested it yet.
 
 <img src="./pics/top.png" width="350"><img src="./pics/bottom.png" width="350">
 <img src="./pics/top_layout.png" width="350"><img src="./pics/bottom_layout.png" width="350">
