@@ -29,3 +29,6 @@ The license terms are negotiable. You are free to my work for non-commercial pur
 [Flushable](/Flushable) - Meshtastic wearable node?
 
 [PiTastic](/PiTastic) - 1W raspberry pi hat
+
+[FrameTastic](/FrameTastic) - FrameWork laptop lora expansion module
+
