@@ -13,5 +13,5 @@ The license terms are negotiable. You are free to use this work for non-commerci
 >
 > will update with more information once available
 
-<img src="./pics/top.png" width="350">
+<img src="./pics/Seeed/top.png" width="350">
 <img src="./pics/Seeed/schema_FrameTastic_Seeed.png" width="500">
