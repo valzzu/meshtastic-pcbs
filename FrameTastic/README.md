@@ -8,10 +8,12 @@ The license terms are negotiable. You are free to use this work for non-commerci
 
 # FrameTastic
 
-> [!WARNING]
+> [!CAUTION]
 > Has not been yet verified to work
 >
 > will update with more information once available
+
+The enclousure will be made once i get the boards so i can test fit them.
 
 <img src="./pics/Seeed/top.png" width="350">
 <img src="./pics/Seeed/schema_FrameTastic_Seeed.png" width="500">
