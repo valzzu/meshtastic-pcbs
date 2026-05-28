@@ -12,6 +12,8 @@ The license terms are negotiable. You are free to use this work for non-commerci
 > Has not been yet verified to work
 >
 > will update with more information once available
+>
+> DOES NOT WORK CURRENTLY :) the usb connector doesent have data for some reason and footprint is wrong
 
 The enclousure will be made once i get the boards so i can test fit them.
 
