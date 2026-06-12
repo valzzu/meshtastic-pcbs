@@ -19,6 +19,10 @@ My tiniest node so far i think at 14.4x22.8mm
 <img src="./pics/top_layout.png" width="350"><img src="./pics/bottom_layout.png" width="350">
 <img src="./pics/schema.png" width="500">
 
+[Lora module](https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html)
+
+[nrf52 module](https://store.minewsemi.com/product/bluetooth-modules-nrf52840-ms88sf31/)
+
 [BOM](./BOM_Snacky.csv)
 
 
