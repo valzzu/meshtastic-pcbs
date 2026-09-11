@@ -9,7 +9,7 @@ The license terms are negotiable. You are free to use this work for non-commerci
 
 # WashTastic
 
-<img src="./pics/Assembled.jpg" width="350"> <img src="./pics/WashTastic Diagram V0.3.5.png" width="600">
+<img src="./pics/Assembled_3.5.jpg" width="350"> <img src="./pics/WashTastic Diagram V0.3.5.png" width="600">
 
 Dont want to assemble these by you're self?
 
