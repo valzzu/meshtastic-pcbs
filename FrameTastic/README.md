@@ -9,13 +9,21 @@ The license terms are negotiable. You are free to use this work for non-commerci
 # FrameTastic
 
 > [!CAUTION]
-> Has not been yet verified to work
+> New version has been tested to be funcional.
 >
-> will update with more information once available
->
-> DOES NOT WORK CURRENTLY :) the usb connector doesent have data for some reason and footprint is wrong
+> Only the Elecrow version has been tested but the seed one should work also.
 
-The enclousure will be made once i get the boards so i can test fit them.
 
-<img src="./pics/Seeed/top.png" width="350">
-<img src="./pics/Seeed/schema_FrameTastic_Seeed.png" width="500">
+
+To flash the eeprom u will need to download (ch341eeprom)[https://github.com/meshtastic/ch341eeprom] (Not needed if u buy from me :))
+
+- extract the zip and open the folder
+- open termninal in the folder
+- plug the module into usb c port while holding PRG button, u can let go after its plugged in
+- run 'python ch341_factory.py --serial xxxxxxxx --product "FrameTastic 1262"' replace x's with 8 digit serial code, for example order number + date and year if it fits
+
+
+
+<img src="./pics/Elecrow/assembled.png" width="350">
+<img src="./pics/Elecrow/top.png" width="350">
+<img src="./pics/Elecrow/schema_FrameTastic_Elecrow.png" width="500">
