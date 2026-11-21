@@ -21,7 +21,7 @@ To flash the eeprom u will need to download (ch341eeprom)[https://github.com/mes
 - open termninal in the folder
 - plug the module into usb c port while holding PRG button, u can let go after its plugged in
 - run
-##
+#
     python ch341_factory.py --serial xxxxxxxx --product "FrameTastic 1262" 
   replace x's with 8 digit serial code, for example order number + date and year if it fits
 
