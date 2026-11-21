@@ -8,7 +8,7 @@ The license terms are negotiable. You are free to use this work for non-commerci
 
 # FrameTastic
 
-> [!CAUTION]
+> [!WARNING]
 > New version has been tested to be funcional.
 >
 > Only the Elecrow version has been tested but the seed one should work also.
