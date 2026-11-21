@@ -25,7 +25,7 @@ To flash the eeprom u will need to download (ch341eeprom)[https://github.com/mes
     python ch341_factory.py --serial xxxxxxxx --product "FrameTastic 1262" 
 - replace x's with 8 digit serial code, for example order number + date and year if it fits
 
-[case](./FrameTastic_case.stl)
+Get the case on (printables)[./FrameTastic_case.stl](https://www.printables.com/model/1924371-frametastic-case)
 
 <img src="./pics/Elecrow/assembled.png" width="350"><img src="./pics/Elecrow/top.png" width="350">
 <img src="./pics/Elecrow/schema_FrameTastic_Elecrow.png" width="500">
