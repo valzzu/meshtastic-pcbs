@@ -24,6 +24,5 @@ To flash the eeprom u will need to download (ch341eeprom)[https://github.com/mes
 
 
 
-<img src="./pics/Elecrow/assembled.png" width="350">
-<img src="./pics/Elecrow/top.png" width="350">
+<img src="./pics/Elecrow/assembled.png" width="350"><img src="./pics/Elecrow/top.png" width="350">
 <img src="./pics/Elecrow/schema_FrameTastic_Elecrow.png" width="500">
