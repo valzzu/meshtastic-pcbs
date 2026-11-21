@@ -23,7 +23,7 @@ To flash the eeprom u will need to download (ch341eeprom)[https://github.com/mes
 - run
 #
     python ch341_factory.py --serial xxxxxxxx --product "FrameTastic 1262" 
-  replace x's with 8 digit serial code, for example order number + date and year if it fits
+- replace x's with 8 digit serial code, for example order number + date and year if it fits
 
 
 
