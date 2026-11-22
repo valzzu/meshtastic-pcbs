@@ -29,3 +29,8 @@ Get the case on [printables](https://www.printables.com/model/1924371-frametasti
 
 <img src="./pics/Elecrow/assembled.png" width="350"><img src="./pics/Elecrow/top.png" width="350">
 <img src="./pics/Elecrow/schema_FrameTastic_Elecrow.png" width="500">
+
+The seed variant requires wio-sx1262 without ipex connector, u can get it [here](https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-without-IPEX-Tape-Reel-p-6417.html)
+
+Elecrow version can be completly assembled by them.
+They are also able to do the seed one but u need to give them the link to the module so they know what to get.
