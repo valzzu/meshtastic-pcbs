@@ -13,6 +13,7 @@ The license terms are negotiable. You are free to use this work for non-commerci
 >
 > Only the Elecrow version has been tested but the seed one should work also.
 
+You can buy this directly from my [Lectronz store](https://lectronz.com/products/frametastic-framework-lora-module)
 
 ## eeprom programming
 To flash the eeprom u will need to download (ch341eeprom)[https://github.com/meshtastic/ch341eeprom] (Not needed if u buy from me :))
