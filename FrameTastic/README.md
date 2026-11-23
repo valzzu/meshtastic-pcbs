@@ -14,7 +14,7 @@ The license terms are negotiable. You are free to use this work for non-commerci
 > Only the Elecrow version has been tested but the seed one should work also.
 
 
-
+## eeprom programming
 To flash the eeprom u will need to download (ch341eeprom)[https://github.com/meshtastic/ch341eeprom] (Not needed if u buy from me :))
 
 - extract the zip and open the folder
@@ -34,3 +34,9 @@ The seed variant requires wio-sx1262 without ipex connector, u can get it [here]
 
 Elecrow version can be completly assembled by them.
 They are also able to do the seed one but u need to give them the link to the module so they know what to get.
+
+## usage 
+
+To use this module u need [meshtasticd](https://meshtastic.org/docs/meshtasticd/installation/) installed.
+
+If it is installed just run "meahtasticd" and use the [web client](https://client.meshtastic.org) to connect to 127.0.0.1
